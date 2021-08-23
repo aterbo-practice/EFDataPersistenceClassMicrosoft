@@ -1,0 +1,8 @@
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/bin/Debug/netstandard2.1/ContosoPets.Domain.deps.json
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/bin/Debug/netstandard2.1/ContosoPets.Domain.dll
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/bin/Debug/netstandard2.1/ContosoPets.Domain.pdb
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.csprojAssemblyReference.cache
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.AssemblyInfoInputs.cache
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.AssemblyInfo.cs
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.dll
+/home/andy_terbovich/aspnet-learn/src/ContosoPets.Domain/obj/Debug/netstandard2.1/ContosoPets.Domain.pdb
